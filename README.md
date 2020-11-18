@@ -1,3 +1,4 @@
 # ServerClientApp
 Server and Client App to Demonstrate Socket Programming
-![alt text](https://github.com/rupesh-kumar-lpu/ServerClientApp/tree/main/Snapshots/Capture.JPG?raw=true)
+
+![Capture](https://user-images.githubusercontent.com/46577873/99572848-4a98f380-29fb-11eb-9dd5-dac4c39b0a47.JPG)
