@@ -30,7 +30,7 @@ namespace Client_WindowsFormDoTNetCSharpVB
             sw = new StreamWriter(ns);
             sw.AutoFlush = true;
 
-            username = "Honey";
+            username = "Rahul";
             sw.WriteLine("Entered" + ">> " + username);
             msgstb.AppendText("\n"+sr.ReadLine() + "\n");
 
